@@ -9,7 +9,7 @@ module.exports = function signalkCalypsoUltrasonic (app) {
     searching: 'Searching for Ultrasonic',
     found_ultrasonic: 'Found Ultrasonic',
     connecting: 'Connecting...',
-    connected: 'Conneected to Ultrasonic',
+    connected: 'Connected to Ultrasonic',
     received_characteristic: 'Received characteristic',
     subscribed_to_dataservice: 'Subscribed to data service',
     sleeping: 'Ultrasonic in sleep mode...'
